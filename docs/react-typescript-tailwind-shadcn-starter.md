@@ -1,4 +1,4 @@
-# Configurando projeto em react 
+# ⚛️ React + TypeScript + Tailwind + shadcn/ui Template
 
 # 🚀 Stack escolhida
 
